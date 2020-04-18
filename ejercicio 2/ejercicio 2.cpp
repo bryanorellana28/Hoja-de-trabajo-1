@@ -155,6 +155,7 @@ almacen[1]=almacen[1]+tmonto;
 			
 				cout<<"Desea regresar al menu principal escriba 1, de lo contrario cualquier digito  "<<endl;
 		cin>>x;
+		estadisticas.close();
 			}
 		}
 				
